@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            body{
+                background-color: rgb(246, 12, 98);
+                text-align: center;
+            }
+            #about-heading{
+                color:rgb(240, 217, 4);
+            }
+            #description{
+                color:rgb(12, 221, 186)
+            }
+        </style>
+    </head>
+    <body>
+        <br><br>
+        <h1 id="about-heading">About Page</h1>
+        <br><br>
+        <p id="description">A side of one of the pieces of paper in a book, newspaper, or magazine, usually with a number printed on it.</p>
+        <br><br>
+    </body>
+</html>
